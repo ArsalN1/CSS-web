@@ -1,0 +1,73 @@
+.text {
+  text-align: center;
+  padding-top: 10pc;
+  font-size: 80px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: rgb(139, 28, 9);
+}
+.Hacker{
+    text-align: center;
+    font-size: 60px;
+    padding-bottom: 30px;
+    color: grey;
+}
+
+.hello{
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(134, 18, 134);
+}
+.intro{
+    display: flex;
+    justify-content: center;
+}
+h4{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(9, 138, 138);
+    margin-top: 200px;
+}
+h3{
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.parent {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+}
+p{
+    line-height: 2;
+    padding: 10px;
+}
+h3{
+    padding-left: 10px;
+}
+.typing{
+    border-radius: 50%;
+}
+.pic img{
+   border-radius: 50% ;
+}
+.nav-link{
+    font-size: 20px;
+}
+footer p{
+    font-size: 16px;
+}
+.col-lg-5 p{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
